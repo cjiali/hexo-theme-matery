@@ -277,13 +277,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner: cjiali
+  repo: https://github.com/cjiali/net.chjiali
   oauth:
-    clientId:
-    clientSecret:
-  admin:
+    clientId: be8833cc24da6235a7b0
+    clientSecret: 75d4293fd529375f28fb0ee34d645e283e0e776a
+  admin: cjiali
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
